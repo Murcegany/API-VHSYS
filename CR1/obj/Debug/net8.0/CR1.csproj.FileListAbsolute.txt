@@ -1,0 +1,171 @@
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\CR1.exe
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\CR1.deps.json
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\CR1.runtimeconfig.json
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\CR1.pdb
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.csproj.AssemblyReference.cache
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.AssemblyInfoInputs.cache
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.AssemblyInfo.cs
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.csproj.CoreCompileInputs.cache
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.csproj.CopyComplete
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\refint\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.pdb
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\CR1.genruntimeconfig.cache
+C:\Users\emill\OneDrive\Projeto API\CR1\obj\Debug\net8.0\ref\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\CR1.exe
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\CR1.deps.json
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\CR1.runtimeconfig.json
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\CR1.pdb
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.csproj.AssemblyReference.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.AssemblyInfoInputs.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.AssemblyInfo.cs
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.csproj.CoreCompileInputs.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.csproj.CopyComplete
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\refint\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.pdb
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\CR1.genruntimeconfig.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS\CR1\obj\Debug\net8.0\ref\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\CR1.exe
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\CR1.deps.json
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\CR1.runtimeconfig.json
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\CR1.pdb
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.csproj.AssemblyReference.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.AssemblyInfoInputs.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.AssemblyInfo.cs
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.csproj.CoreCompileInputs.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.csproj.CopyComplete
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\refint\CR1.dll
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.pdb
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\CR1.genruntimeconfig.cache
+C:\Users\emill\OneDrive\Projeto API\JOBS - DIÁRIO\CR1\obj\Debug\net8.0\ref\CR1.dll

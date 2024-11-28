@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Main</id>
+    <version>1.0.0</version>
+    <authors>Main</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="7eea8305acf3b14efc35a899036c48f3cba8d608" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Data.SqlClient" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\emill\OneDrive\Projeto API\SUBIR TUDO\SUBIR TUDO P2\bin\Release\net8.0\Main.runtimeconfig.json" target="lib\net8.0\Main.runtimeconfig.json" />
+    <file src="C:\Users\emill\OneDrive\Projeto API\SUBIR TUDO\SUBIR TUDO P2\bin\Release\net8.0\Main.dll" target="lib\net8.0\Main.dll" />
+  </files>
+</package>
